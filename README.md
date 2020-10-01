@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Noodles are Delicious
 
-You can use the [editor on GitHub](https://github.com/custoyang/Noodles/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Noodles come in all shapes and forms, lengths and width, chewiness and texture, they are delicious!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
