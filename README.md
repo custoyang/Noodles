@@ -1,12 +1,12 @@
-## Noodles are Delicious
+# Noodles are Delicious
 
 Noodles come in all shapes and forms, lengths and width, chewiness and texture, they are delicious!
 
 Did you know that noodles originated in China?
 
-### Markdown
+## Ramen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ramen is a Japanese noodle soup that is often made up of chinese wheat noodles that is served in different meat/fish broths, miso, and soy sauce. Usually ramen is topped with different toppings such as sliced pork, bamboo, scallions, seaweed, and more!
 
 ```markdown
 Syntax highlighted code block
