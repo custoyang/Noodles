@@ -2,7 +2,7 @@
 
 Noodles come in all shapes and forms, lengths and width, chewiness and texture, they are delicious!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Did you know that noodles originated in China?
 
 ### Markdown
 
