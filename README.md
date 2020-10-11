@@ -14,3 +14,6 @@ Ramen is a Japanese noodle soup that is often made up of chinese wheat noodles t
 **Korea**
 
 Korean Ramen is known as ramyeon in Korea and always eaten instant. It is a instant version of the Japanese ramen, using different blends of Korean spices and flavors that form a cohesive and delicious flavor. Usually these instant noodle packs come with dried toppings and seasonings such as scallions/mushrooms, but you also have the freedom of adding fresh toppings to make it even better!
+
+[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsharedappetite.com%2Frecipes%2Fspicy-korean-kimchi-ramen%2F&psig=AOvVaw1HSGVpxH01i6o0XVqKGKfP&ust=1602531854992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCBlcKmrewCFQAAAAAdAAAAABAE)
+![image](https://sharedappetite.com/wp-content/uploads/2015/10/quick-easy-korean-kimchi-ramen-5-copy.jpg)
