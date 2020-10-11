@@ -18,6 +18,14 @@ Korean Ramen is known as ramyeon in Korea and always eaten instant. It is a inst
 [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsharedappetite.com%2Frecipes%2Fspicy-korean-kimchi-ramen%2F&psig=AOvVaw1HSGVpxH01i6o0XVqKGKfP&ust=1602531854992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCBlcKmrewCFQAAAAAdAAAAABAE)
 ![image](https://sharedappetite.com/wp-content/uploads/2015/10/quick-easy-korean-kimchi-ramen-5-copy.jpg)
 
+### Pasta
+
+**Italy**
+
+Pasta can come in different shapes such as penne, rigatoni, orzo, and more! It is a staple in Italian cuisine and is typically made from unleavened dough of a durum wheatf lour mixed with water or eggs and formed into sheets and other shapes that is then cooked by boiling/baking. It can be served with different toppings such as ham and bacon, usually served with a sauce that can be rich and creamy.
+
+[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eataly.com%2Fus_en%2Fmagazine%2Feataly-recipes%2Fitalian-pasta-recipes%2F&psig=AOvVaw2OCESK7UqnpZDof_Hi_pds&ust=1602532321788000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj8xqSorewCFQAAAAAdAAAAABAD)
+![image](https://www.eataly.com/wp/wp-content/uploads/2017/11/tagliatelle-al-ragu-pasta-web.jpg)
 
 
 
