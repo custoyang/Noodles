@@ -9,6 +9,7 @@ Noodles come in all shapes and forms, lengths and width, chewiness and texture, 
 Ramen is a Japanese noodle soup that is often made up of chinese wheat noodles that is served in different meat/fish broths, miso, and soy sauce. Usually ramen is topped with different toppings such as sliced pork, bamboo, scallions, seaweed, and more!
 
 [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRamen&psig=AOvVaw1oOQGTK0u9ZdEQpFN-DsC5&ust=1602531545240000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLidyLClrewCFQAAAAAdAAAAABAD)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoyu_Ramen.jpg/1200px-Shoyu_Ramen.jpg)
 
 **Korea**
 
